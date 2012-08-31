@@ -224,7 +224,7 @@
 
 ##注释##
 
-<pre><code><!--#S 这里是注释-->
+<pre><!--#S 这里是注释-->
 <div id="content">
     <div class="box"></div>
-</div><!--#E 这里是注释--></code></pre>
+</div><!--#E 这里是注释--></pre>
