@@ -210,14 +210,10 @@
             <td>变量</td>
         </tr>
     </tbody>
-    <tfoot>
-        <tr>
-            <td colspan="3">
-            >语义化你的代码：http://mrthink.net/html-tips-semantization/
-            </td>
-        </tr>
-    </tfoot>
 </table>
+
+> 语义化你的代码：http://mrthink.net/html-tips-semantization/
+
 
 ##代码缩进##
 
