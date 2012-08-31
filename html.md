@@ -19,7 +19,7 @@
 
 ##标签(语义化)##
 
-_标签语义中英文对照表_
+**标签语义中英文对照表**
 <table>
     <thead>
         <tr>
@@ -212,7 +212,7 @@ _标签语义中英文对照表_
     </tbody>
     <tfoot>
         <tr>
-            <td rowspan="3">
+            <td colspan="3">
             >语义化你的代码：http://mrthink.net/html-tips-semantization/
             </td>
         </tr>
