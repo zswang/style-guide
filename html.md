@@ -16,7 +16,13 @@
 
 ##书写格式##
 
-内容
+. 所有的HTML元素及其属性名称均使用小写
+. 所有的都要闭合,如```<br />```
+. 标签要合理嵌套，避免inline元素嵌套block元素
+. 标签属性值必须包含在双引号中，如 ```<input type="text" name="" id="" maxlength="20" readonly="readonly" checked="checked" disabled="disabled" />```
+. 尽量减少嵌套层次
+. 使用 *4个空格* 进行代码缩进，以保证不同编辑器格式相同(代码大小可以通过压缩手段解决)
+. 将编辑器中的换行符设置成Unix格式
 
 ##标签(语义化)##
 
