@@ -222,11 +222,9 @@
 
 > 语义化你的代码：http://mrthink.net/html-tips-semantization/
 
-
-##代码缩进##
-
-内容
-
 ##注释##
 
-内容
+```<!--#S 这里是注释-->
+<div id="content">
+    <div class="box"></div>
+</div><!--#E 这里是注释-->
