@@ -224,7 +224,8 @@
 
 ##注释##
 
-```<!--#S 这里是注释-->
+```
+<!--#S 这里是注释-->
 <div id="content">
     <div class="box"></div>
 </div><!--#E 这里是注释-->
@@ -233,6 +234,7 @@
 ##常用结构##
 
 *文档模板
+
 ````
 <!DOCTYPE HTML>
 <html>
@@ -262,17 +264,23 @@
 ````
 
 *头部
+
+````
 <header>
     <h1><a href="#" title="">BPIT</a></h1>
     <div class="welcome">
         欢迎，用户！
     </div>
 </header>
+````
 
 *尾部
+
+````
 <footer>
 &copy;
 </footer>
+````
 
 *模块
 
