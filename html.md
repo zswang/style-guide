@@ -229,3 +229,60 @@
     <div class="box"></div>
 </div><!--#E 这里是注释-->
 ```
+
+##常用结构##
+
+*文档模板
+````
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>page title</title>
+        <link rel="stylesheet" href="css_url" />
+    </head>
+    <body>
+        <div id="page">
+            <div id="header">
+                页头
+            </div>
+            <div id="content">
+                主体
+            </div>
+            <div id="footer">
+                页尾
+            </div>
+        </div>
+        <script src="js_url"></script>
+        <script>
+        // 你的代码
+        </script>
+    </body>
+</html>
+````
+
+*头部
+<header>
+    <h1><a href="#" title="">BPIT</a></h1>
+    <div class="welcome">
+        欢迎，用户！
+    </div>
+</header>
+
+*尾部
+<footer>
+&copy;
+</footer>
+
+*模块
+
+
+*导航
+
+
+
+
+
+
+
+
