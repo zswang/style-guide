@@ -291,13 +291,46 @@
 
 * 模块
 
+````
+<div class="mod" id="modName">
+    <div class="hd">
+        模块头
+    </div>
+    <div class="bd">
+        模块体
+    </div>
+    <div class="ft">
+        模块尾
+    </div>
+</div>
+````
 
 * 导航
 
+````
+<nav class="nav">
+    <ul>
+        <li>……</li>
+        <li>……</li>
+        <li>……</li>
+    </ul>
+</nav>
+````
 
+* 分页
 
-
-
+````
+<div class="pages">
+    <a href="#">«上一页</a>
+    <span class="pages-cur">1</span>
+    <a href="#">2</a>
+    <a href="#">3</a>
+    <a href="#">4</a>
+    <span class="pages-more">...</span>
+    <a href="#">60</a>
+    <a href="#">下一页»</a>
+</div>
+````
 
 
 
