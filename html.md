@@ -244,17 +244,24 @@
         <link rel="stylesheet" href="css_url" />
     </head>
     <body>
-        <div id="page">
-            <div id="header">
-                页头
-            </div>
-            <div id="content">
-                主体
-            </div>
-            <div id="footer">
-                页尾
-            </div>
-        </div>
+        <!--#S header-->
+        <header id="header">
+            这里是页头
+        </header>
+        
+        <!--#S content-->
+        <section id="content">
+            这里是主体
+        </section><!--#E content-->
+        
+        <!--#S footer-->
+        <footer>
+            这里是页尾
+        </footer><!--#E footer-->
+        
+        <!--[if lt IE 9]>
+        <script src="js/html5.js"></script>
+        <![endif]-->
         <script src="js_url"></script>
         <script>
         // 你的代码
