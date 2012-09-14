@@ -1,4 +1,4 @@
-#html编码规范#
+#HTML 编码规范#
 
 版本：0.1
 
@@ -6,7 +6,7 @@
 
 ##Doctype##
 
-```<!DOCTYPE HTML>```
+* ```<!DOCTYPE HTML>```
 
 ##编码(文档和文件)##
 
